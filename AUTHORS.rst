@@ -1,6 +1,6 @@
 Author:
 
-- `Dan Foreman-Mackey (NYU) <https://github.com/dfm>`_
+- `Dan Foreman-Mackey <https://github.com/dfm>`_
 
 Direct contributions to the code base:
 
@@ -12,6 +12,8 @@ Direct contributions to the code base:
 - `Will Meierjurgen Farr <https://github.com/farr>`_
 - `Júlio Hoffimann Mendes <https://github.com/juliohm>`_
 - `David W. Hogg <https://github.com/davidwhogg>`_
+- `@ipashchenko <https://github.com/ipashchenko>`_
+- `Nicholas Kern <https://github.com/nkern>`_
 - `Dustin Lang <https://github.com/dstndstn>`_
 - `Phil Marshall <https://github.com/drphilmarshall>`_
 - `Demitri Muna <https://github.com/demitri>`_
@@ -20,6 +22,7 @@ Direct contributions to the code base:
 - `Leo Singer <https://github.com/lpsinger>`_
 - `Manodeep Sinha <https://bitbucket.org/manodeep/>`_
 - `Marco Tazzari <https://github.com/mtazzari>`_
+- `James Tocknell <https://github.com/aragilar>`_
 - `Erik Tollerud <https://github.com/eteq>`_
 - `Simon Walker <https://github.com/mindriot101>`_
 - `Peter K. G. Williams <https://github.com/pkgw>`_
